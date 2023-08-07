@@ -1,6 +1,6 @@
 <template>
   <div>
-    <n-button type="primary" size="medium">按钮</n-button>
+    <n-button type="primary" size="medium">按钮1112222</n-button>
   </div>
 </template>
 <script setup>

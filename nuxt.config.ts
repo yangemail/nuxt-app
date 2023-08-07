@@ -1,4 +1,7 @@
 export default defineNuxtConfig({
+    app: {
+        buildAssetsDir: '/static/',
+    },
     modules: [
         'nuxt-windicss',
     ],
